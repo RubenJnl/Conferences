@@ -59,4 +59,3 @@
 - Don't block painting with webfont loading! new font-display:optional :) for now use filamentgroup async css?
 - Async load all css and inline first styles
 - HTTP/2 doesn't have a large overhead like HTTP on async loading small files.
-- 
