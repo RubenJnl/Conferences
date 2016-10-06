@@ -1,7 +1,7 @@
 #Fronteers16 day one
 
 ## Progressive Enhancement and CSS | Ire Aderinokun
-bitsofco.de
+[Bitsofco.de](http://bitsofco.de)
 
 Points for progressive enhancement
 - Content accessible for all browsers
@@ -13,7 +13,7 @@ Points for progressive enhancement
 Use JS?
 - Only as enhancement, do not braik main functionality without JS
 - Feature detection
-	- Polyfill, just like we do only load if nescisary 
+	- Polyfill, just like we do only load if necessary 
 
 Markup is core
 
@@ -28,5 +28,18 @@ New features detect with ```@supports``` or just no support
   .u-flexy {
     display: table;
   }
-}```
+}
+```
+
+## Hacking the visual norm | Nadieh Bremer
+[VisualCinnamon.com](http://visualcinnamon.com)
+
+Visualisation tool [d3.js](http://d3js.org)
+
+Mandatory rainbow phase just for fun when starting data visualisation :')
+Data sketch|es
+
+Copy, Transform, Combine -> Everything is a remix
+
+## 	How You Do What You Do Is Who You Are | Scott Olson
 
