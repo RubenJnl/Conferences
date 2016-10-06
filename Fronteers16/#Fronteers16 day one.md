@@ -190,3 +190,12 @@ Owners of a spectrum, you can fall between Design & FED or between FED and Back-
 - more time on most impactful features
 
 ## 	Surveying the Landscape | [Peter Gasston](https://twitter.com/stopsatgreen)
+Universal links for App's on iOS
+Medium is pushy about using the app
+e.g. NYTimes - App is clean and the website is cluttered
+
+Advertisement represent 9% on the page 54% load & 55% bandwidth.
+
+[Google AMP](https://www.ampproject.org/)
+
+
