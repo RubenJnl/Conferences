@@ -81,8 +81,8 @@ Dynamic data storage in the browser
 
 LocalStorage is depricated, only strings and synchronous. IndexedDB is Async and transaction based.
 "There are three pilars for the web; HTML, CSS and JS. You can't yank one out and expect everything to work".
- Maybe not evertything but what about accessibility? 
+ Maybe not everything but what about accessibility? 
  
- 
+In the end: Build a better experience for the user!
 
 
