@@ -41,6 +41,8 @@ Data sketch|es
 
 Copy, Transform, Combine -> Everything is a remix
 
+[Slides](https://nbremer.github.io/hackingthevisualnorm/)
+
 
 ## 	How You Do What You Do Is Who You Are | [Scott Olson](https://twitter.com/gscottolson)
 Levering React JS to improve user experience.
@@ -197,5 +199,4 @@ e.g. NYTimes - App is clean and the website is cluttered
 Advertisement represent 9% on the page 54% load & 55% bandwidth.
 
 [Google AMP](https://www.ampproject.org/)
-
 
