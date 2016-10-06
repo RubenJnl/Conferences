@@ -71,6 +71,18 @@ On focus/value!="" the placeholder will disappear.
 Animation like we do on DLLDealerlease/LEASIT is great for the user experience. The label appears above the input when focussed or filled inputs.
 
 ## Offline, progressive, and multithreaded: a peek at the webapps of the future | Nolan Lawson
+[Slides](https://nolanlawson.github.io/fronteers-2016/#/)
 
+HTML5 was a response to Flash
+
+Progressive Web Apps are a response to native mobile apps.
+
+Dynamic data storage in the browser
+
+LocalStorage is depricated, only strings and synchronous. IndexedDB is Async and transaction based.
+"There are three pilars for the web; HTML, CSS and JS. You can't yank one out and expect everything to work".
+ Maybe not evertything but what about accessibility? 
+ 
+ 
 
 
