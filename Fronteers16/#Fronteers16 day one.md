@@ -42,4 +42,35 @@ Data sketch|es
 Copy, Transform, Combine -> Everything is a remix
 
 ## 	How You Do What You Do Is Who You Are | Scott Olson
+Levering React JS to improve user experience.
+
+### Preloading images
+Default preload image as source, on load you can fade the image. Of broken you can set a custom image.
+```
+div - width: 33.3%, position: relative
+IMG spacer - width: auto; height: auto;
+```
+```
+<svg width=4
+height=3
+viewbox 0 0 4 3 />
+```
+
+With a preloader you can order the loading of images.
+example: You can just request the first 6 images instead of setting the source for all xx images on the page.
+ 
+Dynamic input sizes
+Default
+- explicit size
+- explicit percentage 
+
+Set opacity for the input to 0 and fill the span with the input, the span has the right behaviour for autosizing based on content.
+
+Using placholder text inside input as we know isn't a great thing when you're hiding labels.
+On focus/value!="" the placeholder will disappear.
+Animation like we do on DLLDealerlease/LEASIT is great for the user experience. The label appears above the input when focussed or filled inputs.
+
+## Offline, progressive, and multithreaded: a peek at the webapps of the future | Nolan Lawson
+
+
 
