@@ -86,3 +86,54 @@ LocalStorage is depricated, only strings and synchronous. IndexedDB is Async and
 In the end: Build a better experience for the user!
 
 
+## Multi-user WebVR or: Wait, Who Are These People? | Martin Splitt
+
+"Vomiting because of VR motion sickness: *a bucket full of fun!*"
+
+### Devices
+- Gear VR
+- Cardboard
+- Occulus
+- Steam VR 
+
+Buisinesscase for VR?
+- education
+- marketing
+- construction/architecture
+- healthcare
+- design/art
+
+### WebRTC 
+- Low latency direct communications between devices.
+- signalling through server first
+
+### WebGL
+- rendering a lot of pixels on the screen for 3D
+
+### WebVR
+- Get a list of displays and render canvas on the displays
+
+#### Framedata for VR contains
+- Pose
+  - Orientation
+  - Position
+- Projection matrix for each eye _don't worry what it is, just use it_
+
+And that's the WebVR API
+
+### Where are we with VR?
+- Current draft 1.1
+- <3 from Mozilla, Google, MS & Samsung
+- Experimental browser builds
+  - No VR there's just a single picture
+- Gamepad API extension
+- No DOM just yet
+
+[Slides](https://docs.google.com/presentation/d/1h1JeRFoxL_Vp4hFQrsqvGe-tM-02PPMG5p9tBwpW-bQ/edit#slide=id.p) [ShortUrl](bit.ly/fronteers-webvr)
+
+
+## Big Data, Big Impact | Lodewijk Nauta
+
+
+
+
