@@ -144,8 +144,20 @@ _ breaks to nothing
 - easy to animate
 - easy to make accessible
 
+[Slides](http://slides.com/sdrasner/functional-fronteers#/)
 
-## 	World-Wide Web, not Wealthy Western Web | [Bruce Lawson](https://twitter.com/brucel)
+
+## World-Wide Web, not Wealthy Western Web | [Bruce Lawson](https://twitter.com/brucel)
+PWA - "Just a website", way smaller than an native app.
+
+Opera mini servers compresses up to 90% of the webpage and sends it in a single binary blob to the end-user.
+It allows only 5s of JS runtime.
+
+
+## Technologic (Human Afterall): Accessibility Mix | [Léonie Watson](https://twitter.com/leoniewatson)
+
+
+## Joining Up the Dots - [Heydon Pickering](https://twitter.com/heydonworks) 
 
 
 
