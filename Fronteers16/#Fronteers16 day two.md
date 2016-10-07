@@ -29,14 +29,44 @@ jquery pointer events polyfill ([PEP](https://github.com/jquey/pep))
 Safari can fill CreditCard info from the camera.
 
 ### Add apple pencil to the devicelab
+"No device testlab inhouse, just go to the Apple store" 
 
 
 [Slides](https://speakerdeck.com/grigs/adapting-to-input)
+[Notes from Bram Willemse](https://workflowy.com/s/QRnBToXi7o)
 
 
 ## Cheat Sheet to a Lean Website - [Barbara Bermes](https://twitter.com/bbinto)
+People don't like to wait.
+Abandoning websites because of slow loading is high.
+Especially after like 10 seconds "Forget it I'll leave"
 
- 
+### Treat speed as a feature
+This should not be a "Nice to have" but a "Must have"
+Optimize from a user's prerspective, look at the target group.
+
+What about energy saving?
+
+CRP (Critical Rendering Path) 
+- Clean HTML √
+- Cleanup DOM bij removing unused elements
+- encode/compress images √
+- avoid custom webfonts
+- Use Gzip
+- Reduse HTTP requests
+- Image sprites _really? it isn't 2010 anymore_ Think about the mobile web & retina, maybe svg sprites is an alternative. 
+- Use CDN's
+- Offline storage
+- Prevent redirects (DNS lookup)
+
+What we're already doing
+- Async/defer js loading
+- scripts at bottom of the page to prevent render blocking
+- Concatinate JS
+
+### monitorring loadtime is important
+Like when ads/tracking is added and loadtime shoots through the roof.
+
 
 
 ## Other notes
