@@ -155,6 +155,36 @@ It allows only 5s of JS runtime.
 
 
 ## Technologic (Human Afterall): Accessibility Mix | [Léonie Watson](https://twitter.com/leoniewatson)
+Keyboard focus-able default
+- Link
+- Button
+- Input
+
+Expected interactions, link activated bij click/enter
+Etc for buttons and inputs.
+
+Screenreaders use the accessibility tree.
+Assistive technologies listen for changes in the accessibility tree
+
+There are about 30 Aria roles available
+Name and description:
+- aria-label
+- aria-describedby 
+
+Aria has 9 states including
+- checked
+- pressed
+- hidden
+- invalid
+- current
+
+Add focus with a tabindex
+tabindex 0 is the tab location on the dom-tree.
+
+You can use [Tenon API](https://tenon.io/) with the build tools.
+Tenon uses a headless browser instead of just the source of HTML
+
+_Accessibility doesn't have to be perfect, just a little bit better than yesterday_
 
 
 ## Joining Up the Dots - [Heydon Pickering](https://twitter.com/heydonworks) 
