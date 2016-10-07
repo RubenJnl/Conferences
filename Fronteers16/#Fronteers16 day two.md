@@ -97,6 +97,9 @@ Extract the repeating styles to mixin's if needed.
 [Bram Willemse](https://workflowy.com/s/Ji590S8RDz)
 
 
+[Slides](https://github.com/zellwk/responsive-css-components-slides)
+
+
 ## CSP STS PKP SRI ETC OMG WTF BBQ (Modern websecurity standards) | [Scott Helme](https://twitter.com/Scott_Helme)
 HTTP/2 Security features: only over https
 - Geolocation 
@@ -104,6 +107,8 @@ HTTP/2 Security features: only over https
 - AppCache
 - Brotli Compression (better then Gzip)
 - SEO Boost 
+
+[Slides](https://scotthelme.co.uk/static/talks/CSP%20STS%20PKP%20SRI%20ETC%20OMG%20WTF%20BBQ.pdf)
 
 
 ## 	Functional Animation | [Sarah Drasner](https://twitter.com/sarah_edo)
@@ -155,6 +160,8 @@ PWA - "Just a website", way smaller than an native app.
 
 Opera mini servers compresses up to 90% of the webpage and sends it in a single binary blob to the end-user.
 It allows only 5s of JS runtime.
+
+[Slides](https://speakerdeck.com/brucel/parisweb-paris-30-september-2016)
 
 
 ## Technologic (Human Afterall): Accessibility Mix | [Léonie Watson](https://twitter.com/leoniewatson)

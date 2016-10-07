@@ -33,6 +33,9 @@ New features detect with ```@supports``` or just no support
 ### M&M's
 ![Progressive enhancement is like an M&M](./IMG_1453.jpg)
 
+[Slides](https://speakerdeck.com/ireade/what-about-css-progressive-enhancement-and-css)
+
+
 ## Hacking the visual norm | [Nadieh Bremer](https://twitter.com/NadiehBremer)
 [VisualCinnamon.com](http://visualcinnamon.com)
 
@@ -94,6 +97,8 @@ LocalStorage is depricated, only strings and synchronous. IndexedDB is Async and
 In the end: Build a better experience for the user!
 
 ![Speed differences](./IMG_1461.jpg)
+
+[Slides](https://nolanlawson.github.io/fronteers-2016/#/)
 
 
 ## Multi-user WebVR or: Wait, Who Are These People? | [Martin Splitt](https://twitter.com/g33konaut)
