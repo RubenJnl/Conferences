@@ -1,4 +1,4 @@
-#Fronteers16 day one
+#Fronteers16 day one 6 October 2016
 
 ## Progressive Enhancement and CSS | [Ire Aderinokun](https://twitter.com/ireaderinokun)
 [Bitsofco.de](http://bitsofco.de)
@@ -30,6 +30,8 @@ New features detect with ```@supports``` or just no support
   }
 }
 ```
+### M&M's
+![Progressive enhancement is like an M&M](./IMG_1453.jpg)
 
 ## Hacking the visual norm | [Nadieh Bremer](https://twitter.com/NadiehBremer)
 [VisualCinnamon.com](http://visualcinnamon.com)
@@ -69,6 +71,8 @@ Default
 
 Set opacity for the input to 0 and fill the span with the input, the span has the right behaviour for autosizing based on content.
 
+![auto-sizing input](./IMG_1460.jpg)
+
 Using placholder text inside input as we know isn't a great thing when you're hiding labels.
 On focus/value!="" the placeholder will disappear.
 Animation like we do on DLLDealerlease/LEASIT is great for the user experience. The label appears above the input when focussed or filled inputs.
@@ -88,6 +92,8 @@ LocalStorage is depricated, only strings and synchronous. IndexedDB is Async and
  Maybe not everything but what about accessibility? 
  
 In the end: Build a better experience for the user!
+
+![Speed differences](./IMG_1461.jpg)
 
 
 ## Multi-user WebVR or: Wait, Who Are These People? | [Martin Splitt](https://twitter.com/g33konaut)
@@ -138,6 +144,8 @@ And that's the WebVR API
 
 ## Big Data, Big Impact | Lodewijk Nauta
 
+![Come up with something catchy to 'sell'!](./IMG_1465.jpg)
+"The five V's of big data".
 
 ## Scaling Front End Development | [Monika Piotrowicz](https://twitter.com/monsika)
 
@@ -157,6 +165,8 @@ Design --------- | -------- AppDev
 - spaghetti code
 - hard to maintain & iterate
 - not accessible/performant/responsive
+
+![From design to (app) dev](./IMG_1470.jpg)
 
 Owners of a spectrum, you can fall between Design & FED or between FED and Back-end
 

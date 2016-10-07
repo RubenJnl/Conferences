@@ -1,4 +1,4 @@
-#Fronteers16 day two
+#Fronteers16 day two 7 October 2016
 
 ## Adapting to Input - [Jason Grigsby](https://twitter.com/grigs)
 
@@ -27,6 +27,9 @@ Focus on point/select instead of tap/click
 jquery pointer events polyfill ([PEP](https://github.com/jquey/pep))
 
 Safari can fill CreditCard info from the camera.
+Or just let the prefill in the browser handle it.
+
+![Browser autofill](./IMG_1497.jpg)
 
 ### Add apple pencil to the devicelab
 "No device testlab inhouse, just go to the Apple store" 
@@ -193,8 +196,7 @@ _Accessibility doesn't have to be perfect, just a little bit better than yesterd
 
 ![Git image](./IMG_1507.jpg)
 
-
-'insert button link behaviour photo'
+![button link behaviour fail](./IMG_1508.jpg)
 
 The reason why people use JavaScript for basic HTML stuff.
 Why?
