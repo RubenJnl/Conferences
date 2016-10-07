@@ -191,7 +191,8 @@ _Accessibility doesn't have to be perfect, just a little bit better than yesterd
 ## Joining Up the Dots - [Heydon Pickering](https://twitter.com/heydonworks) 
 "System thinking discourages salad punching"
 
-'insert git photo'
+![Git image](./IMG_1507.jpg)
+
 
 'insert button link behaviour photo'
 
