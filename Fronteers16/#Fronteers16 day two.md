@@ -186,10 +186,22 @@ Tenon uses a headless browser instead of just the source of HTML
 
 _Accessibility doesn't have to be perfect, just a little bit better than yesterday_
 
+[Slides](http://ljwatson.github.io/decks/2016/fronteers/index.html#)
 
 ## Joining Up the Dots - [Heydon Pickering](https://twitter.com/heydonworks) 
+"System thinking discourages salad punching"
 
+'insert git photo'
 
+'insert button link behaviour photo'
+
+The reason why people use JavaScript for basic HTML stuff.
+Why?
+11% of Americans thing HTML is a sexually transmitted disease.
+
+abilities !== interests
+
+### The problem is communication not technology 
 
 
 
