@@ -202,6 +202,7 @@ Advertisement represent 9% on the page 54% load & 55% bandwidth.
 
 [Google AMP](https://www.ampproject.org/)
 
+[Slides](https://speakerdeck.com/stopsatgreen/surveying-the-landscape-fronteers)
 
 
 ## Other notes
