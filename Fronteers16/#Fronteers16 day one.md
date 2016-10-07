@@ -191,6 +191,8 @@ Owners of a spectrum, you can fall between Design & FED or between FED and Back-
 - more people can contribute
 - more time on most impactful features
 
+[Slides](http://www.slideshare.net/mpiotrowicz/building-scaling-a-front-end-practice-team)
+
 ## 	Surveying the Landscape | [Peter Gasston](https://twitter.com/stopsatgreen)
 Universal links for App's on iOS
 Medium is pushy about using the app

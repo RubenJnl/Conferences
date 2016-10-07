@@ -68,6 +68,33 @@ What we're already doing
 Like when ads/tracking is added and loadtime shoots through the roof.
 
 
+## Building Responsive CSS Components | [Zell Liew](https://twitter.com/zellwk)
+Make components scalable, but how?
+
+Main typo in REM/VW and the rest in EM. _No need for our baseline?, at least not for font-size. We still need margins to be relative to that._
+
+Limit the number of font-sizes
+Repeat the baseline, just like we already do.
+- Lineheight for e.g. 24px
+- Heading = 48px
+- Extra spacing is + 24px or 1/2 or 2x that
+
+Size in EM if the property is relative to font-size.
+
+Everything else scale in REM
+
+Extract the repeating styles to mixin's if needed.
+- Determine component area maps.
+- Determine breakpoints and changes in styles
+- Determine units for CSS properties
+- Handle complex variations with mixins (or element queries in the future)
+- But especially: Don't over engineer!
+
+
+
+## CSP STS PKP SRI ETC OMG WTF BBQ | [Scott Helme](https://twitter.com/Scott_Helme)
+
 
 ## Other notes
 [Pim Derks](https://gist.github.com/PimDerks/fc2b3c30e8b7a985a496512eda705079)
+[Ian van der Wiel](https://github.com/iainvdw/fronteers-2016-notes)
