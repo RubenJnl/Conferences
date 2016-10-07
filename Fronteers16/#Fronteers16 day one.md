@@ -200,3 +200,8 @@ Advertisement represent 9% on the page 54% load & 55% bandwidth.
 
 [Google AMP](https://www.ampproject.org/)
 
+
+
+## Other notes
+- [Pim Derks](https://gist.github.com/PimDerks/d2b339d567ab0759fc2e648dcd3c4c19)
+- [Nienke Dekker](https://github.com/nienkedekker/fronteers-2016)
