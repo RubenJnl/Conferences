@@ -218,3 +218,5 @@ abilities !== interests
 ## Other notes
 [Pim Derks](https://gist.github.com/PimDerks/fc2b3c30e8b7a985a496512eda705079)
 [Ian van der Wiel](https://github.com/iainvdw/fronteers-2016-notes)
+[Tom Hartwig](http://www.tomhartwig.nl/blog/fronteers-conference-2016-takeaways/)
+[Marc Görtz](https://github.com/Dreamseer/fronteers-notes/tree/master/2016)
