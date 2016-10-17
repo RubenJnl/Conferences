@@ -213,7 +213,7 @@ abilities !== interests
 
 ### The problem is communication not technology 
 
-
+[Slides](http://slides.com/heydon/joining-up-the-dots#/)
 
 ## Other notes
 [Pim Derks](https://gist.github.com/PimDerks/fc2b3c30e8b7a985a496512eda705079)
