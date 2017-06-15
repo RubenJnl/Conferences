@@ -73,9 +73,45 @@ Firefox devtools has an audio tab
 
 Howler.js, also supports sound spriting.
 
+[Slides](https://github.com/Rumyra/Talk-Web-Audio)
+
+
 ## WebVR | Ada Rose Edwards
 
 Watch out for the samsung internet browser, it's the 3th most used browser in Europe. So test!
+
+[Simple VR Demo](http://o.ada.is/simple-vr)
+[VR Demo 1](https://o.ada.is/vrdemo1)
+[VR Hackathon](https://medium.com/samsung-internet-dev/virtual-hackathon-lets-make-vr-together-53f629552764)
+
+[Slides](http://o.ada.is/css-day)
+
+
+AFrame for creating 3d objects
+With webvr you can bring audience together.
+
+
+## Weird APIs | [Mike Taylor](https://twitter.com/miketaylr)
+
+[Boolean trap](https://ariya.io/2011/08/hall-of-api-shame-boolean-trap)
+
+[Slides](https://miketaylr.com/pres/browser-api-day/)
+
+
+## Progressive web Apps | [Patrick Kettner](http://twitter.com/PatrickKettner)
+
+[Hushlittlebaby -> instead of 45MB video](https://hushlittleba.by/)
+
+[Browser storage abuser](https://demo.agektmr.com/storage/)
+Check how big your cache can get.
+
+node js: manifestatioon -> create web manifest
+[webmanifest generatoo online](http://webmanife.st/)
+[validator](http://webmanife.st/validator)
+[spec](http://webmanife.st/spec)
+
+Web payment request for native payment instead of a bulky checkout. 
+[More info at google](https://developers.google.com/web/fundamentals/discovery-and-monetization/payment-request/) 
 
 
 
