@@ -114,6 +114,23 @@ Web payment request for native payment instead of a bulky checkout.
 [More info at google](https://developers.google.com/web/fundamentals/discovery-and-monetization/payment-request/) 
 
 
+## Payments & Credentials | [Chris Wilson](https://twitter.com/cwilso)
+
+Make it easier for users;
+Start by enabling password managers to submit forms.
+autocomplete for example; username, current-password, new-password
+Use old-school http posts or push a new item on the history state
+
+Alwasy! use https! <- we already do that.
+
+[CredentialManagementAPI](http://g.co/CredentialManagementAPI)
+[Payment demo with: Paymentrequest API](https://polykart-credential-payment.appspot.com/) *next to mobile it works in chrome 60
+
+[PaymentRequestGuide](http://g.co/PaymentRequestGuide)
+
+[Slides](goo.gl/F9PGxY)
+
+
 
 
 # Other links; 
