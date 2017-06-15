@@ -1,6 +1,6 @@
 #CSS Day one Browser API Special
 
-## Animations | Rachel Nabors
+## Animations | [Rachel Nabors](https://twitter.com/rachelnabors)
 
 Timing & Movement
 When & Where
@@ -30,7 +30,7 @@ more specific on animation then caniuse: https://developer.microsoft.com/en-us/m
 [Slides](https://www.slideshare.net/CrowChick/alice-in-web-animations-api-land)
 
 
-## Form validation | PPK
+## Form validation | [Peter Paul Koch](https://twitter.com/ppk)
 
 [Info & demo](https://www.quirksmode.org/forms/)
 
@@ -50,7 +50,7 @@ Block label
 https://make.wordpress.org/accessibility/2017/01/16/testing-form-functionality-with-different-assistive-technology/
 
 
-## Houdini & Polyfilling CSS | Philip Walton
+## Houdini & Polyfilling CSS | [Philip Walton](http://twitter.com/philwalton)
 
 CSS polyfill writes code that the browser does understand
 
@@ -59,7 +59,7 @@ CSS polyfill writes code that the browser does understand
 
 ## Web Audio | [Ruth John](http://twitter.com/Rumyra)
 
-[Blokdust | webAPI demo](https://blokdust.com/)
+[Blokdust - webAPI demo](https://blokdust.com/)
 
 Load sounds, 3 ways:
 get from dom
@@ -76,7 +76,7 @@ Howler.js, also supports sound spriting.
 [Slides](https://github.com/Rumyra/Talk-Web-Audio)
 
 
-## WebVR | Ada Rose Edwards
+## WebVR | [Ada Rose Edwards](https://twitter.com/Lady_Ada_King)
 
 Watch out for the samsung internet browser, it's the 3th most used browser in Europe. So test!
 
