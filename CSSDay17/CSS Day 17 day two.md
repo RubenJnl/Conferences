@@ -82,3 +82,58 @@ text orientation is not well implemented everywhere but it's good enough.
 
 Bungee, fonts for vertical and multicolor!
 
+[Slides](https://speakerdeck.com/jensimmons/writing-modes-at-css-day)
+
+
+## Variables | Gregor Adams [Codepen](https://codepen.io/pixelass/)
+
+You can use variables in calc() in CSS.
+Define the variables in `:root` eg;
+```:root {
+  --color: repeccapurple;
+}
+
+body {
+  background-color: var(--color);
+}
+```
+
+Smiley variables are valid but they need a value or a valid fallback.
+
+[Slides](http://slides.com/gregoradams/css-variables-are-a-game-changer)
+
+## Houdini & the Future | [Tab Atkins](https://twitter.com/tabatkins)
+
+[Houdini](http://drafts.css-houdini.org/) is part of CSSWG and dedicated to making CSS user-extensible.
+Extension usually JS or maybe even just CSS
+
+Properties still act like variables.
+Layout is heavily optimized and it's hard to create a custom layout.
+
+
+[Slides](http://www.xanthir.com/talks/2017-06-16/)
+
+
+Four Properties | [Chris Coyer](https://twitter.com/chriscoyer) CSS Tricks, CodePen, ShopTalk
+
+You can use polygons/circle/ellipse/url in floating elements to wrap text around with shape outside.
+`shape-outside: url();` requires a CORS compatible file. A tricky thing that can make it not work, especially locally.
+Path for shape outside doesn't work.
+offset-path used to be called motion-path.
+You can give it just path data like an SVG.
+
+Clip-path prevents a part of the image to display, you can also do this on backgrounds and use percentages.
+For example use it for diagonal lines instead of skewing before/after elements.
+
+Create and edit paths with [clippy](http://bennettfeely.com/clippy/)
+
+
+CSS for Evil, not Good | [Stephen Hay](http://twitter.com/stephenHay)
+
+Good design works, even for evil. e.g. Phishing. 3% clicks on bad designed phishing mails.
+Up to 48% clicks on good designed phising mails.
+
+[DarkPatterns](https://darkpatterns.org/)
+
+People who stand to gain something from you have motive to deceive you.
+
