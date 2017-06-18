@@ -137,3 +137,8 @@ Up to 48% clicks on good designed phising mails.
 
 People who stand to gain something from you have motive to deceive you.
 
+[Slides](https://speakerdeck.com/stephenhay/css-for-good-not-evil)
+
+
+# Complete coverage of info
+[CSS Day 2017 Coverage](https://cssday.nl/2017/coverage)
