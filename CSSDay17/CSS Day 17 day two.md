@@ -137,6 +137,8 @@ Up to 48% clicks on good designed phising mails.
 
 People who stand to gain something from you have motive to deceive you.
 
+With testing you can prove what works better, the problem with dark patterns is that they work really well.
+
 [Slides](https://speakerdeck.com/stephenhay/css-for-good-not-evil)
 
 
