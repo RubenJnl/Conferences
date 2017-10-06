@@ -80,6 +80,8 @@ Chrome flags devtools enable accessibility
 W3C accessibility guidelines has sentences of more then 40 words.
 The complexer the subject the shorter the sentences should be.
 
+[Slides](http://www.handcoding.com/presentations/plainwriting/#cover)
+
 ## Honey, I Shrunk the Scripts! _Exploring the javascript microworld_ — [István "Flaki" Szmozsánszky](https://twitter.com/slsoftworks)
 
 NodeJS started the JS + Hardware movement.

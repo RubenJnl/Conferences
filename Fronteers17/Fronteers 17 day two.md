@@ -89,3 +89,91 @@ AR.js, marker based has support for Google Tango, ARkit and ARCore and Aframe.
 [Ralitylab](http://realitylab.nl)
 
 ## Webassembly 101 – [Ash Kyd](https://twitter.com/ashkyd)
+
+## Choose Your Animation Adventure - [Val Head](https://twitter.com/vlh)
+
+### CSS
+- well defined
+- loading animations, loopings
+- animations on `:hover`, `:focus`, `:blur`
+
+#### Pro's:
+- no external libraries needed
+- potential performance without much effort
+- keyframes are reusable
+- Can adust properties in media queries for responsive animations when needed
+- No big libraries or impact on loading/page-size
+
+#### Cons
+- Limited events
+- Should be defined ahead of time
+- Can't separate transform properties _yet_
+
+##### CSS & JS
+Let them work together to trigger events.
+JS handles the logic and it does well.
+
+#### You might want to change to JS when...
+- chaining more then 3 animations in a sequence
+- The animation needs to change dynamically at runtime, CSS needs it defined before
+- You need to animate transform properties separately
+- Complex easing structures are required (springs, bounce etc...)
+
+### JS
+
+#### Great at:
+- complex animated interactions
+- Narrative or immersive animations
+- Dynamic state transitions ( stripe logo & resource page)
+
+Use when you need to animate multiple items based on one events
+
+Framerate tracking performant `requestAnimationFrame`
+
+#### JS animation libraries
+They take away the work for easing functions in JS, makes it a lot simpler.
+
+- Greensock
+- Velocity.js _maintained again_
+- Anime JS
+
+They all have in common: similar syntax
+
+![Compare libraries](./IMG_4802.jpg)
+
+### SVG
+- animated illustrations
+- animated icons
+-
+- scalability
+
+**Animated logo's: SVG!**
+
+SVG is great at shape morphing.
+
+CSS can ben used for animating SVG
+
+#### SVG Shines at:
+- Shape morphing
+- motion along path
+
+#### Biggest pro:
+- repsonsive by nature
+- tiny filesizes
+
+[designinginterfaceanimation](designinginterfaceanimation.com)
+[uianimationnewsletter](uianimationnewsletter.com)
+
+## Emoji, Web Components, and Art - [Monica Dinculescu](http://twitter.com/notwaldorf) | [bot](http://twitter.com/to_emoji)
+
+### Funstuf
+- emoji.octopus.holdings
+- make8bitart.com
+- megamoji.muan.co
+- https://meowni.ca/emojillate/
+
+## I'm offline, cool! What now? - Ola Gasidlo
+
+
+
+## THE END - Jason Scott
