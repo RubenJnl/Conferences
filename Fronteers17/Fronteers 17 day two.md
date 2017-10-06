@@ -74,4 +74,18 @@ _Time-commitment is hard when it comes to testing._
 – **Alicia Sedlock**
 
 
-## A Ghost Story of CSS - Stephen Hay
+## A Ghost Story of CSS - [Stephen Hay](https://twitter.com/stephenhay)
+
+## Possibilities of WebVR and its role in the future - Ruben van der Leun
+[VR in presentation](http://trlvr.nl/fronteers)
+
+Easily add 3D with Three.js, there's an impressive amount of plugins.
+
+AFRAME HTML & JS to create VR/3D. Crossplatform
+There's also a visual inspector `CTRl+ALT+I`
+
+AR.js, marker based has support for Google Tango, ARkit and ARCore and Aframe.
+
+[Ralitylab](http://realitylab.nl)
+
+## Webassembly 101 – [Ash Kyd](https://twitter.com/ashkyd)
