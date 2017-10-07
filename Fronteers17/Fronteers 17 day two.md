@@ -150,7 +150,6 @@ They all have in common: similar syntax
 **Animated logo's: SVG!**
 
 SVG is great at shape morphing.
-
 CSS can ben used for animating SVG
 
 #### SVG Shines at:
@@ -164,6 +163,8 @@ CSS can ben used for animating SVG
 [designinginterfaceanimation](designinginterfaceanimation.com)
 [uianimationnewsletter](uianimationnewsletter.com)
 
+[Slides](https://www.slideshare.net/secret/aEWZx45Sn5Yd60)
+
 ## Emoji, Web Components, and Art - [Monica Dinculescu](http://twitter.com/notwaldorf) | [bot](http://twitter.com/to_emoji)
 
 ### Funstuf
@@ -173,6 +174,13 @@ CSS can ben used for animating SVG
 - https://meowni.ca/emojillate/
 
 ## I'm offline, cool! What now? - Ola Gasidlo
+report bugs: webcompat.com
+
+`npm install - g caniuse-cmd`
+github: caniuse-command-line
+
+sauce labs (testing)
+webdriver I/O
 
 
 
