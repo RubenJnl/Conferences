@@ -61,5 +61,6 @@ Giving people the right and freedom about when, how they share information.
 
 ## [Stefan Judis](https://twitter.com/stefanjudis) - What the v...DOM?
 
+[Slides](https://t.co/YkZrK3fhDP)
 
 ## [Sebastiaan de With](https://twitter.com/sdw) - Designing Halide: A Tactile Camera App
