@@ -61,10 +61,12 @@ scroll driven is smoother then scroll triggered
 custom properties easy; color vars
 day 92 for color re-use: https://www.matuzo.at/blog/2023/100daysof-day92/
 BEM to BAPI (block & api)?
-100vh = large, use of dvh (denamic viewport) blog day 38
-scrollbar-gutter: stable; day 20 & 25
+100vh = large, use of dvh (dynamic viewport) blog day 38; https://www.matuzo.at/blog/2022/100daysof-day38/
 
-maysonry day 71 & 72
+scrollbar-gutter: stable; day 20; https://www.matuzo.at/blog/2022/100daysof-day20/
+& 25; https://www.matuzo.at/blog/2022/100daysof-day25/
 
+maysonry day 71; https://www.matuzo.at/blog/2023/100daysof-day71/
+& 72; https://www.matuzo.at/blog/2023/100daysof-day72/ 
 overflow: clip; on an open dialog prevents page scroll
 
